@@ -1,0 +1,8 @@
+C:\Users\Ting\Desktop\專研\Helo\Helo\bin\Release\Helo.exe.config
+C:\Users\Ting\Desktop\專研\Helo\Helo\obj\x86\Release\Interop.SHDocVw.dll
+C:\Users\Ting\Desktop\專研\Helo\Helo\obj\x86\Release\Helo.csproj.ResolveComReference.cache
+C:\Users\Ting\Desktop\專研\Helo\Helo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ting\Desktop\專研\Helo\Helo\obj\x86\Release\Helo.Form1.resources
+C:\Users\Ting\Desktop\專研\Helo\Helo\obj\x86\Release\Helo.Properties.Resources.resources
+C:\Users\Ting\Desktop\專研\Helo\Helo\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ting\Desktop\專研\Helo\Helo\obj\x86\Release\GenerateResource.write.1.tlog
